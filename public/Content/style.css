@@ -1,0 +1,5 @@
+.resume-link::after {
+  content: '→';
+  margin-left: 5px;
+}
+                   
